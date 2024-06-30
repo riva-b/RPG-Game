@@ -1,6 +1,8 @@
 {
     "cSpell.words": [
+        "angegeben",
         "anims",
+        "Anwendung",
         "benutzerdefinierte",
         "Bewegung",
         "Bild",
@@ -15,16 +17,20 @@
         "Initialisierung",
         "Kamera",
         "Karte",
+        "keine",
         "Klasse",
+        "Komponente",
         "Konfiguration",
         "Kontextes",
         "Korrekte",
         "nicht",
         "nötig",
+        "Routenkonfiguration",
         "Setze",
         "Sicherheitsüberprüfung",
         "sicherzustellen",
         "Skaliere",
+        "spezifische",
         "Spieleranimationen",
         "spritesheet",
         "Startpunkt",
@@ -35,6 +41,7 @@
         "Tileset",
         "Vektors",
         "Verwendet",
+        "Weiterleitung",
         "wenn"
     ]
 }
