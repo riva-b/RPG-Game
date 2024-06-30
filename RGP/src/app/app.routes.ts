@@ -12,7 +12,7 @@ export const routes: Routes = [
     },
     {
         path: 'app-game-logic',                                                          // Routenkonfiguration für die Startseite-Komponente      
-        loadComponent: () => import('../game-logic/game-logic.component').then(m => m.GameLogicComponent),
+        loadComponent: () => import('./game-logic/game-logic.component').then(m => m.GameLogicComponent),
     },
     
 ];
