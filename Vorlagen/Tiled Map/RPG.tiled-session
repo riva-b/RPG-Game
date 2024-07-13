@@ -1,0 +1,122 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "MapEins.tmx",
+    "expandedProjectPaths": [
+    ],
+    "file.lastUsedOpenFilter": "Alle Dateien (*)",
+    "fileStates": {
+        "": {
+            "scaleInDock": 1
+        },
+        "BaumRand.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Kurve 2.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Kurve.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1.5,
+            "scaleInEditor": 1
+        },
+        "Kurve3.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "MapEins.tmx": {
+            "expandedGroupLayers": [
+                30,
+                37,
+                31,
+                34
+            ],
+            "scale": 0.33,
+            "selectedLayer": 6,
+            "viewCenter": {
+                "x": 1898.484848484848,
+                "y": 1219.6969696969697
+            }
+        },
+        "MapEins.tmx#baum rand": {
+            "dynamicWrapping": true,
+            "scaleInEditor": 1
+        },
+        "TreppeErde.tsx": {
+            "scaleInDock": 2,
+            "scaleInEditor": 1
+        },
+        "baum rand.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 0.5,
+            "scaleInEditor": 2
+        },
+        "gentle tree wall, canopy only.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "gentle tree wall.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "longcurve.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "seasonal sample (spring).tsx": {
+            "scaleInDock": 1.5,
+            "scaleInEditor": 1
+        },
+        "seasonal sample (summer).tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "seasonal_sample_spring1.tsx": {
+            "scaleInDock": 1.5,
+            "scaleInEditor": 1
+        }
+    },
+    "last.externalTilesetPath": "C:/Users/Ole/Desktop/Ueben/Angular/RPG-Game/Vorlagen/Tiled Map",
+    "last.imagePath": "C:/Users/Ole/Desktop/Ueben/Angular/RPG-Game/Vorlagen/Tiled Map",
+    "map.height": 200,
+    "map.lastUsedFormat": "tmx",
+    "map.layerDataFormat": "1",
+    "map.tileHeight": 16,
+    "map.tileWidth": 16,
+    "map.width": 200,
+    "openFiles": [
+        "MapEins.tmx",
+        "seasonal sample (spring).tsx",
+        "seasonal_sample_spring1.tsx",
+        "Kurve.tsx",
+        "BaumRand.tsx"
+    ],
+    "project": "RPG.tiled-project",
+    "recentFiles": [
+        "BaumRand.tsx",
+        "Kurve.tsx",
+        "seasonal_sample_spring1.tsx",
+        "seasonal sample (spring).tsx",
+        "MapEins.tmx",
+        "baum rand.tsx",
+        "Kurve 2.tsx",
+        "Kurve3.tsx",
+        "longcurve.tsx",
+        "gentle tree wall.tsx",
+        "seasonal sample (summer).tsx",
+        "gentle tree wall, canopy only.tsx"
+    ],
+    "tileset.lastUsedFilter": "Tiled-Kachelsatzdateien (*.tsx *.xml)",
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 16,
+        "width": 16
+    },
+    "tileset.transparentColor": "#ffdcfa",
+    "tileset.useTransparentColor": true
+}
