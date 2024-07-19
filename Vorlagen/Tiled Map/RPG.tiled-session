@@ -3,7 +3,7 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "Kurve.tsx",
+    "activeFile": "MapEins.tmx",
     "expandedProjectPaths": [
     ],
     "file.lastUsedOpenFilter": "Alle Dateien (*)",
@@ -39,16 +39,16 @@
         },
         "MapEins.tmx": {
             "expandedGroupLayers": [
-                34,
-                37,
                 30,
-                31
+                31,
+                34,
+                37
             ],
-            "scale": 0.33,
-            "selectedLayer": 2,
+            "scale": 0.75,
+            "selectedLayer": 6,
             "viewCenter": {
-                "x": 1601.5151515151515,
-                "y": 1184.8484848484848
+                "x": 1308.6666666666665,
+                "y": 2654
             }
         },
         "MapEins.tmx#baum rand": {
@@ -87,6 +87,10 @@
         "seasonal_sample_spring1.tsx": {
             "scaleInDock": 1.5,
             "scaleInEditor": 1
+        },
+        "treasure chests.tsx": {
+            "scaleInDock": 2,
+            "scaleInEditor": 1
         }
     },
     "last.exportedFilePath": "C:/Users/Ole/Desktop/Ueben/Angular/RPG-Game/Vorlagen/Tiled Map",
@@ -106,22 +110,23 @@
         "Kurve.tsx",
         "BaumRand.tsx",
         "KurveGrass.tsx",
-        "KurzGroßGrass.tsx"
+        "KurzGroßGrass.tsx",
+        "treasure chests.tsx"
     ],
     "project": "RPG.tiled-project",
     "recentFiles": [
-        "MapEins.tmx",
-        "seasonal sample (spring).tsx",
-        "seasonal_sample_spring1.tsx",
+        "treasure chests.tsx",
         "KurzGroßGrass.tsx",
         "KurveGrass.tsx",
         "BaumRand.tsx",
         "Kurve.tsx",
+        "seasonal_sample_spring1.tsx",
+        "seasonal sample (spring).tsx",
+        "MapEins.tmx",
         "baum rand.tsx",
         "Kurve 2.tsx",
         "Kurve3.tsx",
-        "longcurve.tsx",
-        "gentle tree wall.tsx"
+        "longcurve.tsx"
     ],
     "tileset.lastUsedFilter": "Tiled-Kachelsatzdateien (*.tsx *.xml)",
     "tileset.lastUsedFormat": "tsx",
