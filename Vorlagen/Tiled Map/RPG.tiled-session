@@ -3,7 +3,7 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "MapEins.tmx",
+    "activeFile": "Kurve.tsx",
     "expandedProjectPaths": [
     ],
     "file.lastUsedOpenFilter": "Alle Dateien (*)",
@@ -39,16 +39,16 @@
         },
         "MapEins.tmx": {
             "expandedGroupLayers": [
-                30,
-                31,
+                34,
                 37,
-                34
+                30,
+                31
             ],
             "scale": 0.33,
             "selectedLayer": 2,
             "viewCenter": {
-                "x": 2816.6666666666665,
-                "y": 789.3939393939394
+                "x": 1601.5151515151515,
+                "y": 1184.8484848484848
             }
         },
         "MapEins.tmx#baum rand": {
@@ -110,13 +110,13 @@
     ],
     "project": "RPG.tiled-project",
     "recentFiles": [
+        "MapEins.tmx",
+        "seasonal sample (spring).tsx",
+        "seasonal_sample_spring1.tsx",
         "KurzGroßGrass.tsx",
         "KurveGrass.tsx",
         "BaumRand.tsx",
         "Kurve.tsx",
-        "seasonal_sample_spring1.tsx",
-        "seasonal sample (spring).tsx",
-        "MapEins.tmx",
         "baum rand.tsx",
         "Kurve 2.tsx",
         "Kurve3.tsx",
