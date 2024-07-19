@@ -40,9 +40,9 @@
         "MapEins.tmx": {
             "expandedGroupLayers": [
                 30,
-                34,
                 31,
-                37
+                37,
+                34
             ],
             "scale": 0.33,
             "selectedLayer": 2,
