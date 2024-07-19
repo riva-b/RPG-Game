@@ -29,18 +29,26 @@
             "scaleInDock": 1,
             "scaleInEditor": 1
         },
+        "KurveGrass.tsx": {
+            "scaleInDock": 3,
+            "scaleInEditor": 1
+        },
+        "KurzGroßGrass.tsx": {
+            "scaleInDock": 2,
+            "scaleInEditor": 1
+        },
         "MapEins.tmx": {
             "expandedGroupLayers": [
                 30,
-                37,
+                34,
                 31,
-                34
+                37
             ],
             "scale": 0.33,
-            "selectedLayer": 6,
+            "selectedLayer": 2,
             "viewCenter": {
-                "x": 1898.484848484848,
-                "y": 1219.6969696969697
+                "x": 2816.6666666666665,
+                "y": 789.3939393939394
             }
         },
         "MapEins.tmx#baum rand": {
@@ -69,7 +77,7 @@
             "scaleInEditor": 1
         },
         "seasonal sample (spring).tsx": {
-            "scaleInDock": 1.5,
+            "scaleInDock": 3,
             "scaleInEditor": 1
         },
         "seasonal sample (summer).tsx": {
@@ -81,23 +89,29 @@
             "scaleInEditor": 1
         }
     },
+    "last.exportedFilePath": "C:/Users/Ole/Desktop/Ueben/Angular/RPG-Game/Vorlagen/Tiled Map",
     "last.externalTilesetPath": "C:/Users/Ole/Desktop/Ueben/Angular/RPG-Game/Vorlagen/Tiled Map",
     "last.imagePath": "C:/Users/Ole/Desktop/Ueben/Angular/RPG-Game/Vorlagen/Tiled Map",
-    "map.height": 200,
+    "map.height": 20,
+    "map.lastUsedExportFilter": "Alle Dateien (*)",
     "map.lastUsedFormat": "tmx",
     "map.layerDataFormat": "1",
     "map.tileHeight": 16,
     "map.tileWidth": 16,
-    "map.width": 200,
+    "map.width": 20,
     "openFiles": [
         "MapEins.tmx",
         "seasonal sample (spring).tsx",
         "seasonal_sample_spring1.tsx",
         "Kurve.tsx",
-        "BaumRand.tsx"
+        "BaumRand.tsx",
+        "KurveGrass.tsx",
+        "KurzGroßGrass.tsx"
     ],
     "project": "RPG.tiled-project",
     "recentFiles": [
+        "KurzGroßGrass.tsx",
+        "KurveGrass.tsx",
         "BaumRand.tsx",
         "Kurve.tsx",
         "seasonal_sample_spring1.tsx",
@@ -107,9 +121,7 @@
         "Kurve 2.tsx",
         "Kurve3.tsx",
         "longcurve.tsx",
-        "gentle tree wall.tsx",
-        "seasonal sample (summer).tsx",
-        "gentle tree wall, canopy only.tsx"
+        "gentle tree wall.tsx"
     ],
     "tileset.lastUsedFilter": "Tiled-Kachelsatzdateien (*.tsx *.xml)",
     "tileset.lastUsedFormat": "tsx",
